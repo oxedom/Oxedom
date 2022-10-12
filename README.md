@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CV Project](https://github.com/oxedom/cv-project)
 
-- 🌱 I’m currently learning **OOP Java, Mathematics at Open University and grinding through "The Odin Project"**
+- 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
 - ⚡ Fun fact **I own many film cameras**
 
