@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxedom&label=Profile%20views&color=0e75b6&style=flat" alt="oxedom" /> </p>
 
-- 🔭 I’m currently working on [CV Project](https://github.com/oxedom/cv-project)
+- 🔭 I’m currently working on [Memory Card Project](https://github.com/oxedom/memory-card)
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
-- ⚡ Fun fact **I own many film cameras**
+- ⚡ Fun fact **I own many film cameras 📷 **
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
