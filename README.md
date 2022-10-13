@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
-- ⚡ Fun fact **I own many film cameras 📷 **
+- ⚡ Fun fact **I own many film cameras** 📷
 
 
 <p align="left">
