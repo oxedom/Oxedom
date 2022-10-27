@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxedom&label=Profile%20views&color=0e75b6&style=flat" alt="oxedom" /> </p>
 
-- 🔭 I’m currently working on [Memory Card Project](https://github.com/oxedom/memory-card)
+- 🔭 I’m currently working on [Shopping Cart Project](https://github.com/oxedom/shopping-cart)
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
