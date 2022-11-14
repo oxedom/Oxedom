@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Israel.</h3>
 
 
-- 🔭 I’m currently working on [Shopping Cart Project](https://github.com/oxedom/shopping-cart)
+- 🔭 I’m currently working on [Instagram Clone Project with Firebase!](https://github.com/oxedom/instagram-clone)
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
