@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Israel.</h3>
 
 
-- 🔭 I’m currently working on [a project using NextJS, Node + Express and Postgres,!](https://github.com/oxedom/members_only)
+- 🔭 I’m currently working on Parker, [a project using NextJS, Tensorflow!](https://github.com/oxedom/parker)
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
