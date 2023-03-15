@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
-            <img src="https://i.imgur.com/p0DatnT.jpg" alt="cool" width="640" height="380"/>
+           ![An image of a cat sitting on a laptop](https://i.imgur.com/p0DatnT.jpg)
+
 
 
 <p align="left">
