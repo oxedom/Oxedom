@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
-           ![An image of a cat sitting on a laptop](https://i.imgur.com/p0DatnT.jpg)
+     
 
 
 
