@@ -6,7 +6,10 @@
 
 - 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
 
-
+<div class="grid grid col-3 
+<img src=https://i.imgur.com/p0DatnT.jpg">/
+            
+<div>
 
 <p align="left">
 </p>
