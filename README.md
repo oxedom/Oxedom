@@ -2,11 +2,10 @@
 <h3 align="center">A passionate developer from Israel.</h3>
 
 
-- 🔭 I’m currently working on Parker, [a project using NextJS, Tensorflow!](https://github.com/oxedom/parker)
+- 🔭 I’m currently finshing Parker, [a project using NextJS, Tensorflow!](https://github.com/oxedom/parker)
 
-- 🌱 I’m currently learning **OOP Java, Mathematics at "The Open University" and grinding through "The Odin Project"**
-
-     
+Coming Sooon:
+Portfolio. 
 
 
 
