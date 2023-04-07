@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate developer from Israel.</h3>
 
+[Check out my Portfolio Website](https://www.sam-brink.com/)
 
-- 🔭 I’m currently finshing Parker, [a project using NextJS, Tensorflow!](https://github.com/oxedom/parker)
-
-Coming Sooon:
-Portfolio. 
-
+- 🔭 I’m currently working on Parker, [a  using NextJS, Tensorflow!](https://github.com/oxedom/parker)
 
 
 <p align="left">
