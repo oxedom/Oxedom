@@ -3,7 +3,7 @@
 
 [Check out my Portfolio Website](https://www.sam-brink.com/)
 
-- 🔭 I’m currently working on Parker, [a  using NextJS, Tensorflow!](https://github.com/oxedom/parker)
+- 🔭 I’m currently working on Parker, [a webapp that allows you to detect and mointor parking spots inside your browser!](https://github.com/oxedom/parker)
 
 
 <p align="left">
