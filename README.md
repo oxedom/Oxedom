@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate developer from Israel.</h3>
 
 [Check out my Portfolio Website](https://www.sam-brink.com/)
 
