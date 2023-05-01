@@ -3,7 +3,7 @@
 <p>A creative programmer with a devoted passion for technology and learning. </p>
 
 
-[Check out my Portfolio Website](https://www.sam-brink.com/)
+🦓 [Check out my Portfolio Website](https://www.sam-brink.com/) 🦓
 
 Some of my projects
 - 🚗 Parkerr, [a webapp that allows you to detect and mointor parking spots inside your browser!](https://github.com/oxedom/parker)
