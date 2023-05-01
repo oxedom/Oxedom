@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 
-<p>A creative programmer with a devoted passion for technology and learning.
+<p>A creative programmer with a devoted passion for technology and learning. </p>
 
- </p>
+
 [Check out my Portfolio Website](https://www.sam-brink.com/)
 
 Some of my projects
