@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 
+<p>A creative programmer with a devoted passion for technology and learning.
+
+ </p>
 [Check out my Portfolio Website](https://www.sam-brink.com/)
 
+Some of my projects
 - 🔭 Check out Parkerr!, [a webapp that allows you to detect and mointor parking spots inside your browser!](https://github.com/oxedom/parker)
 
 
